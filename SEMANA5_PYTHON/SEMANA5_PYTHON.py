@@ -25,5 +25,38 @@ def Ejercicio2():
         print("El triángulo Isósceles")
     else:
         print("El triángulo Escaleno")
-        
-Ejercicio2()
+
+def ejercicio3():
+    n = int(input("Ingrese un numero: "))
+    suma = 0
+
+    print()
+
+    for i in range(1,n+1):
+        print(i)
+
+        if i % 2 == 0:
+            suma += i
+    print("\nSuma de pares: ", suma)
+
+def ejercicio4():
+    cant = int(input("ingrese la cantidad de numeros a ingresar: "))
+    ceros = pares = impares = 0
+    print()
+    for i in range(1, cant+1):
+        num = int(input(f"ingrese el numero  {i}: "))
+
+        if num == 0:
+            ceros+=1
+        elif num % 2==0:
+            pares += 1
+        else:
+            impares += 1
+
+    print("\n# ceros: ",ceros)
+    print("# pares: ",pares)
+    print("# impares: ",impares)
+
+
+
+ejercicio4()
