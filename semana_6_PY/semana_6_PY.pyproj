@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>1eb8b6e4-373d-49b2-a08c-041a59bd848c</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>ejer3.py</StartupFile>
+    <StartupFile>semana_6_PY.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
