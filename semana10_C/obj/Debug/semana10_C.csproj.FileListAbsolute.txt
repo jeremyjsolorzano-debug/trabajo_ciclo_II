@@ -1,0 +1,11 @@
+C:\Users\UPN\Desktop\trabajo semana10\trabajo_ciclo_II\semana10_C\bin\Debug\semana10_C.exe.config
+C:\Users\UPN\Desktop\trabajo semana10\trabajo_ciclo_II\semana10_C\bin\Debug\semana10_C.exe
+C:\Users\UPN\Desktop\trabajo semana10\trabajo_ciclo_II\semana10_C\bin\Debug\semana10_C.pdb
+C:\Users\UPN\Desktop\trabajo semana10\trabajo_ciclo_II\semana10_C\bin\Debug\bilioteca.dll
+C:\Users\UPN\Desktop\trabajo semana10\trabajo_ciclo_II\semana10_C\bin\Debug\bilioteca.pdb
+C:\Users\UPN\Desktop\trabajo semana10\trabajo_ciclo_II\semana10_C\obj\Debug\semana10_C.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\trabajo semana10\trabajo_ciclo_II\semana10_C\obj\Debug\semana10_C.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\trabajo semana10\trabajo_ciclo_II\semana10_C\obj\Debug\semana10_C.csproj.Up2Date
+C:\Users\UPN\Desktop\trabajo semana10\trabajo_ciclo_II\semana10_C\obj\Debug\semana10_C.exe
+C:\Users\UPN\Desktop\trabajo semana10\trabajo_ciclo_II\semana10_C\obj\Debug\semana10_C.pdb
+C:\Users\UPN\Desktop\trabajo semana10\trabajo_ciclo_II\semana10_C\obj\Debug\semana10_C.exe.config

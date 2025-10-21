@@ -1,0 +1,6 @@
+C:\Users\UPN\Desktop\trabajo semana10\trabajo_ciclo_II\bilioteca\bin\Debug\bilioteca.dll
+C:\Users\UPN\Desktop\trabajo semana10\trabajo_ciclo_II\bilioteca\bin\Debug\bilioteca.pdb
+C:\Users\UPN\Desktop\trabajo semana10\trabajo_ciclo_II\bilioteca\obj\Debug\bilioteca.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\trabajo semana10\trabajo_ciclo_II\bilioteca\obj\Debug\bilioteca.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\trabajo semana10\trabajo_ciclo_II\bilioteca\obj\Debug\bilioteca.dll
+C:\Users\UPN\Desktop\trabajo semana10\trabajo_ciclo_II\bilioteca\obj\Debug\bilioteca.pdb
